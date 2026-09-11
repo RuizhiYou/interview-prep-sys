@@ -8,4 +8,5 @@ Create a question with:
 
 ## Questions
 
+- [Energy Dispatch Command Center](./energy-dispatch-command-center/)
 <!-- questions -->
