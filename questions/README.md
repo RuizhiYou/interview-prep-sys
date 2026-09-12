@@ -9,4 +9,5 @@ Create a question with:
 ## Questions
 
 - [Energy Dispatch Command Center](./energy-dispatch-command-center/)
+- [OpenAI Coding Questions — Hack2Hire](./openai-coding-question-bank/)
 <!-- questions -->
